@@ -3,8 +3,8 @@ import os
 import sys
 import requests 
 import time
-client_id = "INgd7TW5tQWvLrOhREGY"
-client_secret = "dwPtxqs6MN"
+client_id = "-----api id-----"
+client_secret = "----api secret----"
 
 keyword = input("검색하고 싶은 뉴스를 입력하세요: ") 
 url = "https://openapi.naver.com/v1/search/news.json"

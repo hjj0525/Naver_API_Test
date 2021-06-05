@@ -1,8 +1,8 @@
 import os
 import sys
 import requests 
-client_id = "INgd7TW5tQWvLrOhREGY"
-client_secret = "dwPtxqs6MN"
+client_id = "-----api id-----"
+client_secret = "----api secret----"
 
 x = 0
 userInput = '1'
